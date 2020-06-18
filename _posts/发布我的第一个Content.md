@@ -1,24 +1,16 @@
 ---
-layout:         post
-title:          搭建成功一个我个人的博客
-subtitle:       好开心，自己的博客搭建成功了
-date:           2020-8-18
-author:         NSC
-header-img:     img/post-bg-2015.jpg
-catalog:        true
-tags:
-    - Java
-    - Android
-    - Android Studio
-    - Python
-    - C
-    - C++
-    - C#
-    
+layout:     post                    # 使用的布局（不需要改）
+title:      My First Post               # 标题 
+subtitle:   Hello World, Hello Blog #副标题
+date:       2020-06-18              # 时间
+author:     NSC                      # 作者
+header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
+catalog: true                       # 是否归档
+tags:                               #标签
+    - 生活
 ---
 
->前人栽树，后人乘凉
+## Hey
+>这是我的第一篇博客。
 
-#前言
-一名Android程序员，13年开始工作，14年开始从事Android，到现在为止在Android这条路上，摸爬滚打已经有五六年了，
-但是身为一名程序猿，多年来在技术上却缺少积累，建立此博客，为自己搭建一个平台，加油！
+进入你的博客主页，新的文章将会出现在你的主页上.
