@@ -12,7 +12,7 @@ github_repo: "https://github.com/nashichao/nashichao.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "缓慢而坚定地做自己能做的事情"
-sidebar-avatar: /img/about-NSC-man.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-NSC-me.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
